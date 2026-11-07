@@ -38,7 +38,7 @@ CONTROLS
    (in your left hand, pointing where the controller points) on / off.
    
  - Hold the LEFT GRIP: the right stick moves the mouse (and doesn't turn you
-   or scroll the inventory while you hold it).
+   or scroll the inventory while you hold it).**to start some actions you have to look around with mouse like in bed**
    
  - X + Y pause: 
  - Retro pixels can be removed: Graphics/RemoveRetroPixels (on; also in the VR
